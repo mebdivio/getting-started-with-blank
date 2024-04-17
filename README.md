@@ -2,7 +2,7 @@
 
 [![Deploy to Divio](https://img.shields.io/badge/DEPLOY-TO%20DIVIO-DFFF67?logo=docker&logoColor=white&labelColor=333333)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-blank/archive/refs/heads/main.zip)
 
-Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into Web Development for the first time or optimizi§g your workflow, Divio has got you covered.
+Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into Web Development for the first time or optimizing your workflow, Divio has got you covered.
 
 ## Cloud Setup
 
